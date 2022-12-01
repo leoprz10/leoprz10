@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id="header" aling="center">
+    <h1 align="center"> Hola 👋, Soy Leonardo Pérez</h1>
+    <h3 aling="center"> Soy un estudiante apasionado por el diseño web. Actualmente tengo más de 6 meses estudiando desarrollo web de manera autodidacta. Mi objetivo es poder convertirme en un desarrollador Frontend.</h3>
+</div>
 
-<!--
-**leoprz10/leoprz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Algo sobre mi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy aprendiendo React JS
+
+- 📫 Puedes contactame: **leoprz15@gmail.com**
+
+- ⚡ Dato curioso: Soy estudiante de Ingenieria Civil
+
